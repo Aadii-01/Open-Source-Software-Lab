@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Basic Calculator
+Comment=Multilingual Python calculator
+Exec=oss-calculator
+Terminal=false
+Categories=Utility;Calculator;
