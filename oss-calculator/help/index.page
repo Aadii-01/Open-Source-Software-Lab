@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide"
+      id="index">
+
+  <info>
+    <title type="text">Basic Calculator Help</title>
+    <desc>Help for the multilingual Python calculator.</desc>
+  </info>
+
+  <title>Basic Calculator</title>
+
+  <p>
+    Basic Calculator is an open-source graphical application
+    developed using Python and Tkinter. It performs basic
+    arithmetic operations and supports English, Hindi, and Marathi.
+  </p>
+
+  <section id="features">
+    <title>Features</title>
+    <list>
+      <item><p>Addition using the plus (+) operator.</p></item>
+      <item><p>Subtraction using the minus (-) operator.</p></item>
+      <item><p>Multiplication using the asterisk (*) operator.</p></item>
+      <item><p>Division using the slash (/) operator.</p></item>
+      <item><p>Language selection between English, Hindi, and Marathi.</p></item>
+      <item><p>Localized digits for Hindi and Marathi.</p></item>
+      <item><p>Error handling for invalid expressions and division by zero.</p></item>
+    </list>
+  </section>
+
+  <section id="usage">
+    <title>How to Use</title>
+    <steps>
+      <item><p>Launch the calculator application.</p></item>
+      <item><p>Select the desired language from the dropdown menu.</p></item>
+      <item><p>Enter numbers using the calculator buttons.</p></item>
+      <item><p>Select an arithmetic operator.</p></item>
+      <item><p>Enter the next number and press the equals button.</p></item>
+      <item><p>Use Clear to remove the complete expression.</p></item>
+      <item><p>Use Delete Last to remove the last character.</p></item>
+    </steps>
+  </section>
+
+  <section id="errors">
+    <title>Error Handling</title>
+    <p>
+      The calculator displays an error message when an invalid
+      mathematical expression is entered or division by zero
+      is attempted.
+    </p>
+  </section>
+
+  <section id="open-source">
+    <title>Open-Source Development</title>
+    <p>
+      Git is used for source-code version control. The application
+      includes translation resources, Mallard help documentation,
+      and Debian package support.
+    </p>
+  </section>
+
+</page>

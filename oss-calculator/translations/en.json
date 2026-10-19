@@ -1,0 +1,10 @@
+
+{
+    "title": "Basic Calculator",
+    "clear": "Clear",
+    "delete": "Delete Last",
+    "hint": "Select a language and start calculating",
+    "success": "Calculation completed",
+    "zero_error": "Error: Cannot divide by zero",
+    "invalid": "Invalid expression"
+}
